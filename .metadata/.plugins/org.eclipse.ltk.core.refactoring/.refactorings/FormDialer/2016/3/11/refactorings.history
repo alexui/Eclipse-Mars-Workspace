@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move source folder &apos;src&apos; to &apos;res&apos;&#x0D;&#x0A;- Original project: &apos;FormDialer&apos;&#x0D;&#x0A;- Destination element: &apos;res&apos;&#x0D;&#x0A;- Original element: &apos;FormDialer/src&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move source folder" element1="/src" flags="6" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveRoots" roots="1" stamp="1457681398242" target="res" version="1.0"/>
+</session>

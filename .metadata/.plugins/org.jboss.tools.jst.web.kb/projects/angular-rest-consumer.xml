@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/Alex/.m2/repository/org/webjars/jquery/1.11.1/jquery-1.11.1.jar"/>
+  <path value="C:/Users/Alex/.m2/repository/com/sun/mail/javax.mail/1.5.0/javax.mail-1.5.0.jar"/>
+  <path value="C:/Users/Alex/.m2/repository/org/webjars/angular-ui-bootstrap/0.13.0/angular-ui-bootstrap-0.13.0.jar"/>
+  <path value="C:/Users/Alex/.m2/repository/org/webjars/bootstrap/3.3.4/bootstrap-3.3.4.jar"/>
+  <path value="C:/Users/Alex/.m2/repository/javax/javaee-api/7.0/javaee-api-7.0.jar"/>
+  <path value="C:/Users/Alex/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar"/>
+  <path value="C:/Users/Alex/.m2/repository/org/webjars/angularjs/1.4.0/angularjs-1.4.0.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="batch-verification"/>
+  <core validator-id="jboss.jsf.core"/>
+  <el>
+   <linked-el length="13" name="%0" offset="760" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="/angular-rest-consumer/pom.xml" value="%1"/>
+  <alias path="artifactId" value="%0"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>
